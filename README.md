@@ -146,7 +146,7 @@ installed, open `index.html` and you should see a colorful clock appear!
 To submit your work in this lesson, you'll have to run `cd ..` to get back to
 the main lesson directory before running `learn test`.
 
-## Conclusion
+## Conclusion.
 
 We've departed from the shore and are now afloat on the sea of code. When
 building our own applications, we will often rely on existing packages to handle
